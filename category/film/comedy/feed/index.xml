@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Comedy &#8211; STIMFLIX</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Apr 2024 11:26:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>BABY LOONEY TUNES</title>
+		<link>./../../../../%stim%/index.html</link>
+					<comments>./../../../../%stim%/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[SigneMexes]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2024 11:25:54 +0000</pubDate>
+				<category><![CDATA[Animé]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=510</guid>
+
+					<description><![CDATA["Baby Looney Tunes" is an endearing animated series that follows the pint-sized adventures of beloved Looney Tunes characters during their early childhood years. Set in a colorful and playful world, the show features baby versions of iconic characters such as Bugs Bunny, Daffy Duck, Tweety Bird, Sylvester the Cat, and others. Each episode is filled with laughter, learning, and heartwarming moments as the little ones embark on imaginative escapades, solve problems, and navigate the joys and challenges of growing up. With its gentle humor, catchy songs, and positive messages about friendship, teamwork, and curiosity, "Baby Looney Tunes" delights both children and adults alike, capturing the spirit of youthful wonder and innocence.]]></description>
+										<content:encoded><![CDATA["Baby Looney Tunes" is an endearing animated series that follows the pint-sized adventures of beloved Looney Tunes characters during their early childhood years. Set in a colorful and playful world, the show features baby versions of iconic characters such as Bugs Bunny, Daffy Duck, Tweety Bird, Sylvester the Cat, and others. Each episode is filled with laughter, learning, and heartwarming moments as the little ones embark on imaginative escapades, solve problems, and navigate the joys and challenges of growing up. With its gentle humor, catchy songs, and positive messages about friendship, teamwork, and curiosity, "Baby Looney Tunes" delights both children and adults alike, capturing the spirit of youthful wonder and innocence.]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../%stim%/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TOM AND JERRY</title>
+		<link>./../../../../%stim%/index.html</link>
+					<comments>./../../../../%stim%/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[SigneMexes]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2024 11:24:30 +0000</pubDate>
+				<category><![CDATA[Animé]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=506</guid>
+
+					<description><![CDATA["Tom and Jerry" is a beloved animated series that follows the comedic antics of its titular characters: Tom, the hapless cat, and Jerry, the mischievous mouse. Set in a world where animals can talk but Tom and Jerry remain silent, the series is defined by its slapstick humor, clever gags, and endless chase sequences. Each episode sees Tom devising elaborate schemes to capture Jerry, only to be outsmarted by the quick-witted mouse time and time again. Despite their constant rivalry, there are moments of unexpected camaraderie and even friendship between the two characters. With its timeless appeal and universal humor, "Tom and Jerry" has entertained audiences of all ages for generations, becoming an enduring classic in the world of animation.]]></description>
+										<content:encoded><![CDATA["Tom and Jerry" is a beloved animated series that follows the comedic antics of its titular characters: Tom, the hapless cat, and Jerry, the mischievous mouse. Set in a world where animals can talk but Tom and Jerry remain silent, the series is defined by its slapstick humor, clever gags, and endless chase sequences. Each episode sees Tom devising elaborate schemes to capture Jerry, only to be outsmarted by the quick-witted mouse time and time again. Despite their constant rivalry, there are moments of unexpected camaraderie and even friendship between the two characters. With its timeless appeal and universal humor, "Tom and Jerry" has entertained audiences of all ages for generations, becoming an enduring classic in the world of animation.]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../%stim%/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
